@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This text is normal.</p>
+
+<p><strong>This text is strong.</strong></p>
+
+</body>
+</html>
+kdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdk
+
+
+dkdkdkdkdkddkdkdkddk
+
+<h2>JavaScript Dates</h2>
+
+<p>100000000000 milliseconds from Jan 1, 1970, is approximately Mar 3, 1973:</p>
+
+<p id="demo"></p>
